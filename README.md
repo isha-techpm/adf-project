@@ -10,7 +10,7 @@ Efficient • Scalable • Automated Data Workflows
 ![ETL](https://img.shields.io/badge/ETL-Pipelines-blue)
 ![DevOps](https://img.shields.io/badge/CI%2FCD-Enabled-green)
 ![JSON](https://img.shields.io/badge/Config-JSON-orange)
-![Status](https://img.shields.io/badge/Maintained-Yes-success)
+![Status](https://img.shields.io/badge/Maintained-No-success)
 
 </div>
 
